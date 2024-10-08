@@ -16,8 +16,6 @@
 
 </center>
 
-## TL;DR
-
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [CodeBoyD7](https://github.com/CodeBoyD7/My-Portfolio). Thanks!
 
 ## Built With
